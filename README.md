@@ -7,7 +7,7 @@
 - [Health Prediction](https://github.com/Romold/FreeCodeCamp-ML/blob/main/fcc-health-prediction.ipynb)
 
 ## Sources 
-- The sources of the respective datasets have been linked by the relevant party ( In this case FCC ) at the beginning of the Notebook if you interested in using them.
+- The sources of the respective datasets have been linked by the relevant party ( In this case FCC ) at the beginning of the Notebook if you are interested in using them.
 
 ## Optimization Techniques
 - [EarlyStopping](https://keras.io/api/callbacks/early_stopping/)
